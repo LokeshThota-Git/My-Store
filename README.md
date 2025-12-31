@@ -56,19 +56,20 @@ Endpoints used:
 
 src/
 ├── components/
-│ ├── Navbar.jsx
-│ ├── Card.jsx
-│ ├── Button.jsx
-│ ├── Loader.jsx
-│ └── ErrorMessage.jsx
+│   ├── Navbar.jsx
+│   ├── Card.jsx
+│   ├── Button.jsx
+│   ├── Loader.jsx
+│   └── ErrorMessage.jsx
 ├── pages/
-│ ├── Home.jsx
-│ ├── ProductList.jsx
-│ └── ProductDetail.jsx
+│   ├── Home.jsx
+│   ├── ProductList.jsx
+│   └── ProductDetail.jsx
 ├── services/
-│ └── api.js
+│   └── api.js
 ├── App.jsx
 └── main.jsx
+
 
 ---
 
